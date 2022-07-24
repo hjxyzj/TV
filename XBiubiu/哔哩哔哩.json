@@ -1,40 +1,76 @@
 {
   "classes": [
     {
-      "type_name": "搞笑",
-      "type_id": "搞笑"
+      "type_name": "鬼畜搞笑",
+      "type_id": "鬼畜搞笑"
     },
     {
-      "type_name": "鬼畜",
-      "type_id": "鬼畜"
+      "type_name": "小姐姐",
+      "type_id": "小姐姐"
     },
     {
-      "type_name": "Sports",
-      "type_id": "球星"
+      "type_name": "英雄联盟",
+      "type_id": "英雄联盟"
     },
     {
-      "type_name": "戏曲",
-      "type_id": "戏曲"
+      "type_name": "王者荣耀",
+      "type_id": "王者荣耀"
     },
     {
-      "type_name": "演唱会",
-      "type_id": "演唱会"
+      "type_name": "纪录片",
+      "type_id": "纪录片"
     },
     {
-      "type_name": "动物世界",
-      "type_id": "动物世界"
+      "type_name": "Discovery探索频道",
+      "type_id": "Discovery探索频道"
     },
     {
-      "type_name": "假窗白噪音",
-      "type_id": "窗白噪音"
+      "type_name": "真人秀",
+      "type_id": "真人秀"
+    },
+    {
+      "type_name": "电影解说",
+      "type_id": "电影解说"
+    },
+    {
+      "type_name": "广场舞",
+      "type_id": "广场舞"
+    },
+    {
+      "type_name": "白噪音",
+      "type_id": "白噪音"
+    },
+    {
+      "type_name": "美食",
+      "type_id": "美食"
+    },
+    {
+      "type_name": "体育",
+      "type_id": "体育"
     },
     {
       "type_name": "相声小品",
       "type_id": "相声小品"
     },
     {
-      "type_name": "儿童",
-      "type_id": "儿童"
+      "type_name": "足球",
+      "type_id": "足球"
+    },
+    {
+      "type_name": "篮球",
+      "type_id": "篮球"
+    },
+     {
+      "type_name": "动物世界",
+      "type_id": "动物世界"
+    },
+         {
+      "type_name": "歌曲MV",
+      "type_id": "歌曲MV"
+    },
+         {
+      "type_name": "影视MV",
+      "type_id": "影视MV"
     }
   ],
   "filter": {
@@ -66,7 +102,7 @@
         ]
       }
     ],
-    "鬼畜": [
+    "TVBox": [
       {
         "key": "duration",
         "name": "时长",
