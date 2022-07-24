@@ -100,7 +100,7 @@
 
 {"key":"考拉直链","name":"🎍考拉直链","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_Blidw","name":"🐘动物世界","type":3,"api":"csp_Blidw","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "少儿","name": "🅰️少儿教育","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/xuan/main/XBiubiu/少儿教育.json"}
+{"key":"少儿","name":"🅰️少儿教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/xuan/main/XBiubiu/少儿教育.json"},
 {"key":"csp_Blixs","name":"🕋相声小品","type":3,"api":"csp_Blixs","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Blixq","name":"🏮戏曲","type":3,"api":"csp_Blixq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bliyc","name":"🎤演唱会","type":3,"api":"csp_Bliyc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/xuan/main/XBiubiu/演唱会.json"},
